@@ -22,16 +22,3 @@ Use the script 3D_VolumeR1.ipynb to load the .npy file and select the desired sc
 In theory, this repository should also work for human MRI and CT Data. In this case, you might want to use Amazon AWS for processing. An example of an AWS arquitecture that works can be found in the following slides.
 
 ![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie1.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie2.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie3.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie4.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie5.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie6.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie7.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie8.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie9.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie10.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie11.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie12.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie13.png)
-![alt-text](https://github.com/castillogo/MRI_DICOM_analysis_preclinical_models/blob/master/Folie14.png)
